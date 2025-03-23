@@ -1,4 +1,4 @@
-# TextClassification
+# Text Classification
 Text Classification is the process of categorizing text into different classes and is one of the fundamental problems in natural language processing (NLP). Text classification applications include sentiment analysis, spam detection, categorization, etc.
 
 Implementing text classification requires several steps:
