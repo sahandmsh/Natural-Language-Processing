@@ -6,5 +6,5 @@ The developed model converts each input character into a vector, feeds these vec
 ### Key functionalities:
 
 * encode/decode methods are resposible for converting char to its index in the vocabulary/vocabulary index to char.
-* train_model method trains the model based on a dataset of words, where each word is wrapped with start (<s>) and end (</s>) tokens.
+* train_model method trains the model based on a dataset of words, where each word is wrapped with start (\<s\>) and end (\</s\>) tokens.
 * generate_word generates one character at a time given a word prefix. This method recognizes generated character sequences' start and end by looking for \<s\> and \</s\> tokens.
